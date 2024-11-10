@@ -1,0 +1,7 @@
+openai
+requests
+moviepy
+python-dotenv
+lumaai
+opencv-python
+pillow

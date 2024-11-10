@@ -1,7 +1,7 @@
+import tkinter as tk
 from moviepy.config import change_settings
 from .ui.main_window import QuoteGeneratorUI
 from .config import FFMPEG_PATH
-import tkinter as tk
 
 def main():
     # Configure FFMPEG
